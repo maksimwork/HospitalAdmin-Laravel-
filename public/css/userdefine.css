@@ -1,0 +1,5 @@
+
+.borderlesstable tbody tr td{
+    border-bottom: 1px;
+    /* background-color:rgb(250, 250, 250); */
+}

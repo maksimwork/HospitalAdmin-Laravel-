@@ -7,7 +7,7 @@
                 </a>
             </li>
             <!-- <li class="user-pro">
-                <a href="#" class="waves-effect"><img src="../plugins/images/users/d1.jpg" alt="user-img" class="img-circle"> Welcome Evgeny
+                <a href="#" class="waves-effect"><img src="../plugins/images/users/d1.jpg" alt="user-img" class="img-circle"> Welcome
                 </a>
             </li> -->
             <!-- <li class="nav-small-cap m-t-10">--- Main Menu</li> -->

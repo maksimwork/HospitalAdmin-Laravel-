@@ -238,7 +238,7 @@
                                     <div class="form-group">
                                         <label class="col-md-12" for="example-text">Name</span></label>
                                         <div class="col-md-12">
-                                            <input type="text" id="example-text" name="example-text" class="form-control" placeholder="enter your name" value="Evgeny">
+                                            <input type="text" id="example-text" name="example-text" class="form-control" placeholder="enter your name" value="sample">
                                         </div>
                                     </div>
 
